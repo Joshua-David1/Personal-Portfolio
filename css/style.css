@@ -1,0 +1,88 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+#home{
+  text-align: left;
+  background-color:GhostWhite;
+}
+
+#about-me{
+  padding: 4rem 5rem;
+}
+
+/* headings */
+h1{
+  line-height: 2.0;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+p{
+  line-height: 2.0;
+}
+
+i{
+  padding: 1.5rem 0;
+}
+
+/* images */
+.home-pic{
+  width: 50%;
+  position: absolute;
+  right: 120px;
+  top:80px;
+  transform: rotate(20deg);
+}
+
+.profile-pic{
+  width: 25%;
+  padding-bottom: 20px;
+}
+ .container-fluid{
+   padding: 3rem 15rem 7rem;
+ }
+
+ /* navbar components */
+
+ .navbar{
+   padding-bottom: 3rem;
+ }
+
+ .navbar-brand{
+   font-size: 1.5rem;
+ } 
+
+ .about{
+   width: 40%;
+   margin: 0 auto;
+ }
+
+ .footer-icons{
+   color: black;
+   padding: 0 1rem;
+ }
+ .carousel-icon-color{
+   background-color: black;
+ }
+
+/* About Me */
+
+#about-me{
+  background-color: white;
+  position: relative;
+}
+
+/* SKills */
+
+#skills{
+  background-color:ghostwhite;
+  position: relative;
+  padding: 3rem;
+}
+
+#contact{
+  background-color: white;
+  padding: 3rem;
+}
